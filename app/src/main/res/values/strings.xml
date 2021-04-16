@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Stock de Licores</string>
+    <string name="add_product">Agregar</string>
+    <string name="dialog_title">Agregar producto</string>
+    <string name="dialog_edit_name">Nombre del producto</string>
+    <string name="dialog_edit_description">Descripción del producto</string>
+    <string name="dialog_edit_quantity">Cantidad del producto</string>
+    <string name="dialog_save">Guardar</string>
+</resources>
